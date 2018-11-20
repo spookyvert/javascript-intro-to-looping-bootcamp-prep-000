@@ -7,5 +7,5 @@ function forLoop(array){
     }
     
   }
-  return 
+  return array
 }
