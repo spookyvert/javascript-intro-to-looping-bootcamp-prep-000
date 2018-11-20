@@ -1,3 +1,3 @@
-function doWhileLoop(array){
+function forLoop(array){
   
 }
